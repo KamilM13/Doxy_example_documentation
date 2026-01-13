@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['adc_20driver_0',['STM32 Peripherial ADC driver',['../index.html',1,'']]],
+  ['adc_5faveraged_5fmeasures_1',['ADC_AVERAGED_MEASURES',['../adc__driver_8h.html#a531f05d7ad6f5829596d1f8eb23c14f3',1,'adc_driver.h']]],
+  ['adc_5faveraging_2',['ADC_Averaging',['../adc__driver_8h.html#a818301f1a1d76ceff8668f117857fa03',1,'ADC_Averaging(ADC_HandleTypeDef *hadc, ADC_BufferTypeDef *badc, ADC_ChannelsTypeDef *cadc, uint8_t channel, uint16_t *retval):&#160;adc_driver.c'],['../adc__driver_8c.html#a818301f1a1d76ceff8668f117857fa03',1,'ADC_Averaging(ADC_HandleTypeDef *hadc, ADC_BufferTypeDef *badc, ADC_ChannelsTypeDef *cadc, uint8_t channel, uint16_t *retval):&#160;adc_driver.c']]],
+  ['adc_5fbuff_3',['ADC_Buff',['../struct_a_d_c___buffer_type_def.html#a5d5fb32b61edf0ec493b21e005868e19',1,'ADC_BufferTypeDef']]],
+  ['adc_5fbuff_5fsize_4',['ADC_BUFF_SIZE',['../adc__driver_8h.html#a4de08020d60dad9bd7f6d5270ae5dbc7',1,'adc_driver.h']]],
+  ['adc_5fbuffertypedef_5',['ADC_BufferTypeDef',['../struct_a_d_c___buffer_type_def.html',1,'']]],
+  ['adc_5fchannelstypedef_6',['ADC_ChannelsTypeDef',['../struct_a_d_c___channels_type_def.html',1,'']]],
+  ['adc_5fconfiggetranksofchannels_7',['ADC_ConfigGetRanksOfChannels',['../adc__driver_8h.html#a631b74846dd126cb2cbdc13228154625',1,'ADC_ConfigGetRanksOfChannels(ADC_HandleTypeDef *hadc, ADC_ChannelsTypeDef *cadc, ADC_BufferTypeDef *badc):&#160;adc_driver.c'],['../adc__driver_8c.html#a631b74846dd126cb2cbdc13228154625',1,'ADC_ConfigGetRanksOfChannels(ADC_HandleTypeDef *hadc, ADC_ChannelsTypeDef *cadc, ADC_BufferTypeDef *badc):&#160;adc_driver.c']]],
+  ['adc_5fdriver_2ec_8',['adc_driver.c',['../adc__driver_8c.html',1,'']]],
+  ['adc_5fdriver_2eh_9',['adc_driver.h',['../adc__driver_8h.html',1,'']]],
+  ['adc_5fgetrank_10',['ADC_GetRank',['../adc__driver_8h.html#aa069226e4f70f58547983de6dd6d69aa',1,'ADC_GetRank(ADC_ChannelsTypeDef *cadc, uint8_t channel, uint8_t *rank):&#160;adc_driver.c'],['../adc__driver_8c.html#aa069226e4f70f58547983de6dd6d69aa',1,'ADC_GetRank(ADC_ChannelsTypeDef *cadc, uint8_t channel, uint8_t *rank):&#160;adc_driver.c']]],
+  ['adc_5fgetvalue_11',['ADC_GetValue',['../adc__driver_8h.html#a0c7dfa3ddf1c95113bd97559016465f9',1,'ADC_GetValue(ADC_HandleTypeDef *hadc, ADC_ChannelsTypeDef *cadc, ADC_BufferTypeDef *badc, float max, uint8_t channel, float *retval):&#160;adc_driver.c'],['../adc__driver_8c.html#a0c7dfa3ddf1c95113bd97559016465f9',1,'ADC_GetValue(ADC_HandleTypeDef *hadc, ADC_ChannelsTypeDef *cadc, ADC_BufferTypeDef *badc, float max, uint8_t channel, float *retval):&#160;adc_driver.c']]],
+  ['adc_5finit_12',['ADC_Init',['../adc__driver_8h.html#a8db5738bdc96476371a3e7d8045747b7',1,'ADC_Init(ADC_HandleTypeDef *hadc, ADC_BufferTypeDef *badc, ADC_ChannelsTypeDef *cadc):&#160;adc_driver.c'],['../adc__driver_8c.html#a8db5738bdc96476371a3e7d8045747b7',1,'ADC_Init(ADC_HandleTypeDef *hadc, ADC_BufferTypeDef *badc, ADC_ChannelsTypeDef *cadc):&#160;adc_driver.c']]],
+  ['adc_5finitmultimode_13',['ADC_InitMultimode',['../adc__driver_8h.html#aef23a0d1fa69890ef45451c9477a48e8',1,'ADC_InitMultimode(ADC_HandleTypeDef *hadcMaster, ADC_BufferTypeDef *badc):&#160;adc_driver.c'],['../adc__driver_8c.html#aef23a0d1fa69890ef45451c9477a48e8',1,'ADC_InitMultimode(ADC_HandleTypeDef *hadcMaster, ADC_BufferTypeDef *badc):&#160;adc_driver.c']]],
+  ['adc_5fmax_5fchannels_14',['ADC_MAX_CHANNELS',['../adc__driver_8h.html#add4b11337331fdbf7767cc7c5f20839a',1,'adc_driver.h']]],
+  ['adc_5freadchannel_15',['ADC_ReadChannel',['../adc__driver_8h.html#adf996ef3c683d9ea66eb3b5618eb076e',1,'ADC_ReadChannel(ADC_HandleTypeDef *hadc, ADC_ChannelsTypeDef *cadc, ADC_BufferTypeDef *badc, uint8_t channel, uint16_t *retval):&#160;adc_driver.c'],['../adc__driver_8c.html#adf996ef3c683d9ea66eb3b5618eb076e',1,'ADC_ReadChannel(ADC_HandleTypeDef *hadc, ADC_ChannelsTypeDef *cadc, ADC_BufferTypeDef *badc, uint8_t channel, uint16_t *retval):&#160;adc_driver.c']]]
+];
